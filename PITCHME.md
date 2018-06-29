@@ -36,7 +36,7 @@
 
 
 +++?image=img_NAFLD/NAFLD_patho.jpg
-### <p  id='p_120'>脂肪肝とは</p>
+### <p id='p_120'>脂肪肝とは</p>
 
 <font size="6" color="black">肝臓に脂肪が過剰に蓄積した状態<br>肝細胞の30％以上に脂肪空胞が認められる</font>
 
@@ -287,7 +287,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 <img src="img_NAFLD/scoring_panel3.png" width="720"> 
 
 +++
-### FIB4indexの経時的プロット
+### <p id='p_120'>FIB4indexの経時的プロット</p>
 
 <img src="img_NAFLD/FIB4index_timeseries.png" width="800"> 
 
