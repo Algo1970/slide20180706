@@ -2,7 +2,7 @@
 
 
 ---
-### 本日の内容
+## 本日の内容
 
 1. <font id='p_120_orange'>NAFLD</font>とは
 2. <font id='p_120_orange'>NAFLD</font>の問題点
@@ -12,11 +12,11 @@
 6. 当院での<font id='p_120_orange'>NAFLD</font>診療
 
 ---
-### <font id="p_80">非アルコール性脂肪性肝疾患</font><br>(<font id='p_120_orange'>NAFLD</font>)<font id="p_80">とは</font>
+## <font id="p_80">非アルコール性脂肪性肝疾患</font><br>(<font id='p_120_orange'>NAFLD</font>)<font id="p_80">とは</font>
 
 
 +++
-### 非アルコール性脂肪性肝疾患<br>(<font id='p_120_orange'>NAFLD</font>)とは
+## 非アルコール性脂肪性肝疾患<br>(<font id='p_120_orange'>NAFLD</font>)とは
 
 - 飲酒歴がない
 - 肝炎ウイルス、自己抗体等陰性
