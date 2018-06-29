@@ -267,7 +267,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 3. <p>肝外合併症のスクリーニング</p>
 
 +++
-### 院内<p id='p_130'>Network</p>
+### 院内<font id='p_130'>Network</font>
 　　
 <img src="img_slide/Clinic_Network.png" width="960"> 
 
@@ -287,7 +287,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 <img src="img_NAFLD/scoring_panel3.png" width="720"> 
 
 +++
-### <p id='p_130'>FIB4indexの経時的プロット</p>
+### <font id='p_130'>FIB4index</font>の経時的プロット
 
 <img src="img_NAFLD/FIB4index_timeseries.png" width="800"> 
 
