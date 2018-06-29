@@ -23,13 +23,19 @@
 - 画像所見で脂肪肝を認める
 
 +++
-### 脂肪肝とは
+### 脂肪性肝疾患の分類 
 
-<img src="img/NAFLD_patho.jpg" title="NAFLD" width="350">  
-<font size="5" color="gray">肝臓に脂肪が過剰に蓄積した状態<br>肝細胞の30％以上に脂肪空胞が認められる</font>
+<img src="img_NAFLD/NAFLDdot.png" height="400" />  
 
-Note:
-肝臓の組織の顕微鏡写真です。
+
++++
+### {data-background="img_NAFLD/NAFLD_patho.jpg"}
+
+<p  id='p_150_bold'>脂肪肝とは</p>
+<font size="7" color="black">肝臓に脂肪が過剰に蓄積した状態<br>肝細胞の30％以上に脂肪空胞が認められる</font>
+
+
+
 
 +++
 ### 脂肪肝の分類
