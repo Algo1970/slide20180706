@@ -191,7 +191,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 (Sumida Y, et al : BMC Gastroenterol 12 : 2, 2012.)</p>
 
 +++ 
-### FibroScan
+### <font id='p_120'>FibroScan</font>
 
 <img src="img_NAFLD/fibroscan.jpg" width="600"> 
 
