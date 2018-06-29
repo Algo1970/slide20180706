@@ -1,37 +1,26 @@
 ## <p id='p_80'>非アルコール性脂肪性肝疾患</p><p id='p_120_orange'>NAFLD</p><p id='p_80'>についての最近の話題</p><p id ='p_40'><br><br><br>飛驒内科クリニック　飛驒昌彦</p>
 
-<br><br>
-<font size="6" color="gray">2018.02.24 SappoRoR#8 </font>
-
-
 
 ---
 ### 本日の内容
 
-1. 自己紹介 
-<br>＜前半＞<br>
-2. 脂肪性肝疾患について
-3. 画像処理用のshinyアプリ作成
-4. アプリを用いた肝脂肪定量化
-<br>＜後半＞<br>
-5. shinyアプリの可読性
-6. まとめ
+1. <font id='p_120_orange'>NAFLD</font>とは
+2. <font id='p_120_orange'>NAFLD</font>の問題点
+3. <font id='p_120_orange'>NAFLD</font>の最近の話題
+4. <font id='p_120_orange'>NAFLD</font>の診断
+5. <font id='p_120_orange'>NAFLD</font>の治療
+6. 当院での<font id='p_120_orange'>NAFLD</font>診療
 
 ---
-### 自己紹介
-
-<img src="/img/dog_circle128.png" title="myenv1" width="128">  
-@R_beginner<Br><Br>
+### <font id="p_80">非アルコール性脂肪性肝疾患</font><br>(<font id='p_120_orange'>NAFLD</font>)<font id="p_80">とは</font>
 
 
-仕事：👨🏻‍⚕️内科開業医 <Br>（肝臓病、消化器病）<Br>
-趣味：ランニング/PC自作<Br>R/Bash/Python/JS<Br><Br>
++++
+### 非アルコール性脂肪性肝疾患<br>(<font id='p_120_orange'>NAFLD</font>)とは
 
----
-### 脂肪肝の定量化
-
-Note:
-まず脂肪肝についての一般的な内容をお話します。
+- 飲酒歴がない
+- 肝炎ウイルス、自己抗体等陰性
+- 画像所見で脂肪肝を認める
 
 +++
 ### 脂肪肝とは
