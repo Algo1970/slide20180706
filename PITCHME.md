@@ -38,12 +38,6 @@
 
 
 +++?image=img_NAFLD/NAFLD_patho.jpg
-### <p  id='p_150_bold'>脂肪肝とは</p>
-
-<font size="7" color="black">肝臓に脂肪が過剰に蓄積した状態<br>肝細胞の30％以上に脂肪空胞が認められる</font>
-
-
-+++?image=img_NAFLD/NAFLD_patho.jpg
 ### <p  id='p_120'>脂肪肝とは</p>
 
 <font size="6" color="black">肝臓に脂肪が過剰に蓄積した状態<br>肝細胞の30％以上に脂肪空胞が認められる</font>
