@@ -233,7 +233,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 </p>
 
 +++
-### <font id="p_80">２型糖尿病を伴う<font id='p_orange'>NAFLD</font>に対する<br>IpragliflozinとPioglitazoneのRCT</font>
+### <font id="p_80">２型糖尿病を伴う<font id='p_120_orange'>NAFLD</font>に対する<br>IpragliflozinとPioglitazoneのRCT</font>
 
 <img src="img_NAFLD/LS_ipra1.png" width="400"> 
 
@@ -242,7 +242,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 </p>
 
 +++
-### <font id="p_80">２型糖尿病を伴う<font id='p_orange'>NAFLD</font>に対する<br>EmpagliflozinのRCT</font>
+### <font id="p_80">２型糖尿病を伴う<font id='p_120_orange'>NAFLD</font>に対する<br>EmpagliflozinのRCT</font>
 
 <img src="img_NAFLD/EMPA_NAFLD_MRI.png" width="800"> 
 
