@@ -67,7 +67,7 @@
 
 
 ---
-### <font id='p_120_orange'>NAFLD</font><font id="p_80">の問題点</font>
+### <font id='p_120_orange'>NAFLD</font>の問題点
 
 - 生活習慣の変化により患者数が増加傾向
 - <font id='p_150_bold'>10～20年</font>で、<font id='p_150_bold'>5～8％</font>が肝硬変へ進展
