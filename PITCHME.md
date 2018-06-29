@@ -56,9 +56,6 @@
 </div>
 
 
-
-
-
 ---
 ### <font id='p_120_orange'>NAFLD</font><font id="p_80">の問題点</font>
 
@@ -68,481 +65,236 @@
 
 
 +++
-### 腹腔鏡所見
+### <font id='p_120_orange'>NAFLD</font>有病率
 
-<img src="img/NL_CH_LC.png" width="700">  
-
-Note:
-これは、肝臓の腹腔鏡写真です。
+- 日本の成人健康診断受診者でのNAFLDの頻度は，<br><font id='p_150_bold'>男性</font>では<font id='p_150_bold'>30～40％</font>，<font id='p_150_bold'>女性</font>は<font id='p_150_bold'>10～20％</font>である。
+- NAFLDの10～20％がNASHと報告されているので，<font id='p_150_bold'>NASH有病率</font>は成人の2～8％(<font id='p_150_bold'>160-640万人</font>)と推定される。
 
 +++
-### NASH病理所見のポイント
+### <font id='p_120_orange'>NAFLD</font>患者、年齢分布
 
-1. 脂肪化（steatosis）
-2. 炎症（inflammation）
-3. 線維化（fibrosis）
+<img src="img_NAFLD/NAFLD_distribution.png" width="700" />  
+<p id="p_small_gray">
+Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
+</p>
 
-Note:
-病理所見は大きく３つのポイントからなり、おのおのスコアリングシステムでグレード分類を行います。
-
-+++
-### 脂肪化・線維化の診断方法
-
-- Biopsy
-- MRS(magnetic resonance spectroscopy)
-- CT
-- US(ultrasonography)
-- Fibroscan
-
-Note:
-診断は上記の方法で行いますが、それぞれに一長一短があります。
 
 +++
-### 診断法ごとの問題点
+### 肝臓の腹腔鏡像
 
-方法         | 問題点
------------- | -------------
-Biopsy　| 検査侵襲、サンプリングエラー
-MRS    | 検査が高額、施設が限られる
-CT     | 被爆、施設が限られる
-US　　| 術者の技量、主観的？
-Fibrscan　| 特化した機能の割に高額
-
-Note:
-組織検査は、検査侵襲が大きいのと、脂肪化は肝組織内で不均一におこるのでサンプリングエラーの問題が有ります。<br>
-MRIは、大掛かりな機械のため施設が限られます、検査費用も高めです。<br>
-CTは、被爆の問題があります。<br>
-USは、術者の技量で診断にばらつきが起こりやすく、定量的に判断するのは難しい。<br>
-Fibroscanは、線維化、脂肪化ともに定量化できるが、機能特化している装置のため導入施設が少ないという問題あります。
+<img src="img_NAFLD/NL_CH_LC3.png" width="800" />  
 
 +++
-### USのメリット・デメリット
+### 肝発癌率（HCV vs NAFLD）
 
-メリット         | デメリット
------------- | -------------
-検査侵襲が無い | 術者の技量が影響<br>半定量的？　
+<img src="img_NAFLD/HCV_NAFLD_HCC.png" width="560" />
 
-<br><font size="5" color="gray">逆に術者の技量に影響されず、<br>定量的に検査できれば非常に有用</font>  
-
-+++
-### 脂肪肝のUS所見
-
-- **肝腎コントラスト**　
-- 脈管の不明瞭化
-- 深部エコー減衰
-
-Note:
-脂肪肝のUS所見は、大きく３つ。脂肪化の程度により出現する所見が変わってきます、肝腎コントラストは比較的早期から、脂肪化の程度がすすむと、脈管不明瞭化、深部エコー減衰の所見も現れてきます。今回はこの肝腎コントラストに注目して検討します。
-
-+++
-### 肝腎コントラスト
-
-<img src="img/LKcontrast_sample.png" width="600">  
-肝臓と腎臓の明るさの違いを定量化していく
-
-Note:
-今回は、この肝腎コントラストを画像から定量化する試みです。
-
-+++
-### 定量化は難しい？
-
-> Saadehらは、US所見によって脂肪肝の重症度を分類しているが、肝臓の脂肪沈着量は検査施行者の主観的な部分に依存する場合が多く、脂肪量の定量までは困難である。(NAFLD/NASH診療ガイドライン, 2014, p.72)
+<p id="p_small_gray">(日内会誌　105：62～66，2016)</p>
 
 
 ---
-### shinyアプリの作成
+### <font id='p_120_orange'>NAFLD</font><font id="p_80">の最近の話題</font>
 
-- データの処理部分のみRで動作確認 |
-- shinyのUI部分作成 |
-- sever部分の実装 |
 
 +++
-### 今回のアプリの概要
+### <font id='p_120_orange'>NAFLD</font>の肝外合併症  
 
-1. 画像ファイル読み込み
-2. OCRで患者情報抽出
-3. ROI部分を画像抜き出し
-4. グレイスケール化
-5. 肝腎輝度比の計算
-6. データの書き出し
-
-Note:
-関心領域（region of interest）をグレースケール化し、輝度比を計算します。
+- 心血管イベント
+- 慢性腎臓病
+- 糖尿病
 
 +++
-### 手書きUI
+### <font id='p_120_orange'>NAFLD</font><font id='p_80'>における心血管イベント</font>
 
-<img src="img/ui_image.gif" width="800">  
+<img src="img_NAFLD/NAFLD_CVDevent.png" height="400" />
 
-Note:
-こんな感じで下書きしてます。
-
-+++
-### 画像読み込みとOCR
-
-<img src="img/OpenFile.gif" width="800">  
+<p id="p_small_gray">(日内会誌　105：38～46，2016)</p>
 
 +++
-### ファイル読み込みコード
+### <font id='p_120_orange'>NAFLD</font><font id='p_80'>の心血管イベントに与える影響<br>－メタ解析－</font>
 
-<img src="img/shiny_fileinput.png" width="600">  
+<img src="img_NAFLD/meta_NAFLD_CVD.png" height="400" />
 
-+++
-### OCRコード
-
-magick ,tesseractパッケージを使用
-
-<img src="img/shiny_ocr.png" width="800">  
+<p id="p_small_gray">
+(Musso G, et al : Ann Med 43 : 617―649, 2011.)
+</p>
 
 +++
-### 患者情報修正
+### <font id='p_120_orange'>NAFLD</font><font id='p_80'>における<br>慢性腎臓病（CKD）の報告</font>
 
-<img src="img/ModifyData.gif" width="800">  
+<img src="img_NAFLD/NAFLD_CKDevent.png" height="400" />
 
-+++
-### ROI部分を画像抜き出し
-
-<img src="img/Click_Liver.gif" width="600">  
+<p id="p_small_gray">(日内会誌　105：38～46，2016)</p>
 
 +++
-### データの書き出し
+### <font id='p_120_orange'>NAFLD</font><font id='p_80'>の糖尿病発症に与える影響<br> － メタ解析 －</font>
 
-<img src="img/REC.gif" width="800">  
+<img src="img_NAFLD/meta_NAFLD_DM.png" height="400" />
+
+<p id="p_small_gray">
+(Musso G, et al :  Ann Med 43 : 617―649, 2011.)
+</p>
 
 +++
-### 肝脂肪定量化shinyアプリ
+### <font id='p_120_orange'>NAFLD</font>診療のポイント
 
-<img src="img/SteatosisChecker.gif" width="800">   
+<img src="img_NAFLD/NAFLD_HCC_CVD_CKD_img3.png" height="500" />
+
++++
+### 非アルコール性脂肪性肝疾患（<font id='p_120_orange'>NAFLD</font>）の定義
+
+- 非アルコール性（アルコール摂取:男性30g/日以下、女性20g/日以下）
+
+純アルコール量がほぼ20 g/日に相当する健康的飲酒量は，ウイスキーダブル1杯，ビール中瓶1本，日本酒1合，ワイングラス2杯以下である．
+
+- 肝組織または画像検査で脂肪肝の所見
+- NAFLD以外の肝疾患の除外
 
 ---
-### 計測してみましょう
-
---- 
-### 対象、方法
-
-- ２０１４年４月から当院で腹部超音波検査を行った、１５０例
-- 機器は東芝製（Xario200）を使用
-- 肝腎コントラストが比較的中心で描出され、アーチファクトの影響の少ない画像を使用
+### <font id='p_120_orange'>NAFLD</font><font id='p_80'>の診断</font>
 
 +++
-### 肝腎輝度比、輝度差
+### <font id='p_120_orange'>NAFLD</font>診断フローチャート
 
-<img src="img/LKratio_diff.png" width="700"> 
+<img src="img_NAFLD/NAFLD_diagnosis3.png" width="960" />  
 
-Note:
-肝腎輝度比は、1.0-2.5ぐらいの範囲。中央値1.2、第三四分位点が1.5。
++++
+### <font id='p_120_orange'>NAFLD</font>の病理
+
+<img src="img_NAFLD/NAFLD_Matteoni.png" width="640" />  
+
+<p id="p_small_gray">Type 1～3はHE染色，Type 4はアザンマロリー染色（矢印は風船様腫大）</p>
+
++++
+### <font id='p_120_orange'>NAFLD</font>全員に、肝生検するのは無理 
+
++++
+### <font id='p_120_orange'>NAFLD</font><font id='p_80'>における肝線維化と血小板の関連</font>
+
+<img src="img_NAFLD/NAFLD_fibrosis_plt.png" width="560" />  
+
+<p id="p_small_gray">(Yoneda M, et al : J Gastroenterol 46 :
+1300―1306, 2011.)</p>
+
++++
+### <font id='p_120_orange'>NAFLD</font><font id='p_80'>における肝線維化とM2BPGiの関連</font>
+
+<img src="img_NAFLD/M2BPGi_NAFLD.png" width="640" />  
+
+<p id="p_small_gray">(Abe M, et al :  J Gastroenterol 50 : 776―784, 2015.)</p>
+
++++
+### <font id='p_80'>肝線維化スコアリングシステム</font>
+
+<img src="img_NAFLD/NAFLD_fibrosis_scoring.png" height="400" />  
+
+<p id="p_small_gray">(日本内科学会雑誌105巻1号より引用)<br>
+(Sumida Y, et al : BMC Gastroenterol 12 : 2, 2012.)</p>
+
++++ 
+### FibroScan
+
+<img src="img_NAFLD/fibroscan.jpg" width="600"> 
+
+<p id="p_small_gray">www.fibrscan.com/en/products</p>
+
+---
+### <font id='p_120_orange'>NAFLD</font><font id='p_80'>の治療</font>
+
++++
+### <font id='p_120_orange'>NAFLD</font>診療ガイドライン
+
+<img src="img_NAFLD/NAFLDguideline.png" width="200"> 
+
+<p id="p_small_gray">https://www.jsge.or.jp/guideline/guideline/pdf/NAFLD_NASHGL2_re.pdf</p>
+
++++
+### ガイドラインで記載された薬物治療
+
+- エビデンスレベル A<br>
+<p id="p_80">チアゾリジン誘導体（ピオグリタゾン）・ビタミンE</p>
+- エビデンスレベル B<br>
+<p id="p_80">ビグアナイド（メトフォルミン等）・HMG-CoA還元酵素阻害剤・<br>高用量UDCA</p>
+- エビデンスレベル C<br>
+<p id="p_80">エゼチミブ（ゼチーア）・ARB・瀉血</p>
+
++++
+### 治療効果が期待される薬剤
+
+- <font id='p_120'>GLP-1</font>
+- <font id='p_120_orange'>SGLT2</font>
+
++++
+### <font id="p_80">脂肪肝を伴う２型糖尿病患者に対するLuseogliflozinとMetforminのRCT</font>
+
+<img src="img_NAFLD/luseogliflozin_NAFLD.png" width="720"> 
+
+<p id="p_small_gray">
+(Shibuya T, et al : Diabetes Obes Metab 20:438-442,2018.)
+</p>
+
++++
+### <font id="p_80">２型糖尿病を伴うNAFLDに対するIpragliflozinとPioglitazoneのRCT</font>
+
+<img src="img_NAFLD/LS_ipra1.png" width="400"> 
+
+<p id="p_small_gray">
+(Ito D, et al : Diabetes Care 40:1364-1372,2017.)
+</p>
+
++++
+### <font id="p_80">２型糖尿病を伴うNAFLDに対するEmpagliflozinのRCT</font>
+
+<img src="img_NAFLD/EMPA_NAFLD_MRI.png" width="800"> 
+
+<p id="p_small_gray">
+(Kuchay MS, et al : Diabetes Care 41, 2018.)
+</p>
+
++++
+### <font id="p_80">SGLT2が著効した</font><font id='p_orange'>NAFLD</font><font id="p_80">症例(60歳代、男性)</font>
+
+<img src="img_NAFLD/SGLT2_ALT_BW.png" width="900"> 
 
 
+---
+### <font id="p_80">当院での</font><font id='p_120_orange'>NAFLD</font><font id="p_80">診療</font>
+
++++
+### 診療のポイント
+
+1. <p id="p_orange">脂肪化・炎症・線維化のフォロー</p>
+2. <p>肝癌のスクリーニング</p>
+3. <p>肝外合併症のスクリーニング</p>
+
++++
+### 院内Network
+　　
+<img src="img_network/Clinic_Network.png" width="960"> 
 
 +++
 ### 経験的な脂肪化grade
 
-<img src="img/empirical_USgrade.png" width="600"> 
+<img src="img_NAFLD/empirical_USgrade.png" width="640"> 
 
 +++
-### 輝度の違いはどこまでわかる？
+### 肝脂肪定量化shinyアプリ
+
+<img src="img_NAFLD/SteatosisChecker.gif" width="720"> 
 
 +++
-### 輝度比カラーモデル
+### 肝線維化スコア計算アプリ
 
-<img src="img/LK_colormodel3.png" width="500"> 
-
-Note:
-EBImageでカラーモデルを作成しました。
-
+<img src="img_NAFLD/scoring_panel3.png" width="720"> 
 
 +++
-### 肝腎輝度比による分類
+### FIB4indexの経時的プロット
 
-<img src="img/LK_USgrade.png" width="600">  
+<img src="img_NAFLD/FIB4index_timeseries.png" width="800"> 
 
-+++
-### USグレードの意味とは…
-
-Note:
-脂肪肝のUSgradeは、定量化できない脂肪肝を、人間の眼で判別ができるようにgradingしただけで、臨床的意味を考えられたものではありません。
-
-+++
-### 肝腎輝度比とBMI/ALT
-
-<img src="img/LK_BMI_ALT.png" width="700"> 
-
-Note:
-肝機能が上昇するポイント（肝腎輝度比）を見つけ、どこまで脂肪肝が改善するのを目標にするか？目標とする肝腎輝度比に到達するためには、どこまでBMIを改善すべきか、すなわち体重を落とすべきか？単純に計算された標準体重ではなく、具体的な体重を見極めることができるようになるかもしれません。
-
-+++
+---?color=#6b8e23
 ### まとめ
 
-肝腎輝度値比による肝脂肪定量化により、<br>経験の少ない術者でも正確な判定が行える。
-
-Note:
-肝脂肪の定量化は、もしかするとALT等肝機能が上昇しやすい、脂肪家の程度のカットオフ値を見つけることができるかもしれません。
-
----
-### 後半
-
-shinyアプリのはなし
-
----
-### shinyアプリ作成で困ること
-
-1. render関数が覚えられない
-2. **コードが長くて、読みにくい**
-3. たまに変数に代入が上手くいかない
-4. エラーの原因がわかりにくい…
-
-+++
-### コードが長くて、読みにくい<br>
-　　（アン・リーダブルコード問題？）
-
-+++
-### shinyコードは長い
-
-- UI部分のコード |
-- SERVER部分には、イベントやレンダリング関数 |
-- さらに実際の処理に関する変数やメソッド | 
-
-+++
-### コードの可読性を上げるために
-
-
-+++
-### 参照クラスはじめました
-
-
-+++
-### Ｒのクラス
-
-- S3
-- S4
-- 参照クラス 
-- R6  
-
-+++
-### 参照クラス
-
-- Package入れなくても使える
-- 多重継承できる
-
-+++
-### 参照クラスの定義
-
-- クラス名
-- フィールド
-- メソッド
-
-+++
-###  参照クラス(RC)のサンプル
-
-```
-Person <- setRefClass(
-  Class = "Person",       # クラス名
-  fields = list (          # フィールド
-    name     = "character"　　    # 名前
-  ),
-  methods = list (         # メソッド
-    getName = function() {
-      print(.self$name)　　　　　　　　　　　　　　　　# 患者名を出力する
-    }
-  ))
-```
-@[2](クラス名を定義)
-@[3-5](フィールドを定義)
-@[6-9](メソッドを定義)
-
-Note:
-メンバ変数はリストとして「変数名=データ型」で渡す
-.selfはクラス自身を指します。
-
-+++
-### インスタンス化<br>フィールド・メソッドの呼び出し
-
-```
-staff = Person$new()
-staff$name　= "Kodaira"
-staff$getName()
-```
-@[1](newでインスタンスを作成)
-@[2-3]($hogehogeでフィールドや、メソッドを呼び出します)
-
-+++
-### RCの継承サンプル
-
-```
-Patient = setRefClass("Patient",
-                      contains = c("Person", "Clinic")
-)
-```
-@[2](containsでクラス継承)
-
----
-### 今回作成した参照クラス
-
-+++
-### MedicalImageInfo class
-
-```
-MedicalImageInfo = setRefClass("MedicalImageInfo",
-                               fields = list(
-                                 path = "character",
-                                 id = "character",
-                                 name = "character",
-                                 date = "character"
-                               ),
-                               methods = list(
-                                 initialize = function(path = "", id = "", name = "", date = ""){
-                                   .self$path = path
-                                   .self$id = id
-                                   .self$name = name
-                                   .self$date = date
-                                 } 
-                               ))
-```
-@[１](医療画像情報用のクラス)
-@[3-6](画像のパス、患者ID、名前、検査日のフィールド)
-@[9](initializeは初期化メソッド)
-
-
-+++
-### OCR class
-
-```
-OCR = setRefClass("OCR",
-                  methods = list(
-                    extract_data = function(path, geometory){
-                      img = image_read(path)
-                      image_ocr(image_crop(img, geometry = geometory))
-                    } 
-                  ))
-```
-
-@[3-5](extract_dataで、画像からOCRかけてデータを取り込みます)
-
-+++
-### PatientInfoExtractor class
-
-```
-PatientInfoExtractor = setRefClass("PatientInfoExtractor",
-                                   contains = c("OCR", "MedicalImageInfo"),
-                                   fields = list(
-                                     id_geometory = "character",
-                                     name_geometory = "character",
-                                     date_geometory = "character"
-                                   ), 
-                                   methods = list(
-                                     extract_id = function(path){
-                                       id_tmp = .self$extract_data(path, .self$id_geometory)
-                                       substr(id_tmp, 1, (nchar(id_tmp) - 2)) # return(id)
-                                     }, 
-                                     extract_name = function(path){
-                                       name_tmp = .self$extract_data(path, .self$name_geometory)
-                                       substr(name_tmp, 1, (nchar(name_tmp) - 2)) # return(name)
-                                     }, 
-                                     extract_date = function(path){
-                                       date_tmp = .self$extract_data(path, .self$date_geometory)
-                                       substr(date_tmp, 1, (nchar(date_tmp) - 2)) # return(date_tmp)
-                                     } 
-                                   ))
-```
-@[2](OCR、MedicalImageInfoクラスを継承して)
-@[4-6](ID,名前、日付のgeometoryフィールドを作成)
-@[9-19](ID,名前、日付を抽出するメソッドを追加)
-@[](エコー画像も内視鏡画像もOCRが使えるクラス)
-
-+++
-### US用の参照クラス
-
-```
-Xario200 = setRefClass("Xario200",
-                       contains = c("PatientInfoExtractor"),
-                       methods = list(
-                         initialize = function(id = "0902",
-                                               name = "sapporo taro",
-                                               date = "2010-12-01",
-                                               id_geometory = "70x25+35+50",
-                                               name_geometory = "250x25+170+6",
-                                               date_geometory = "105x22+840+50"){
-                           .self$id = id
-                           .self$name = name
-                           .self$date = date
-                           .self$id_geometory = id_geometory
-                           .self$name_geometory = name_geometory
-                           .self$date_geometory = date_geometory
-                         } 
-                       ))
-```
-@[2](患者情報抽出クラスを継承して)
-@[7-9](当院のエコー用ID,名前、日付geometoryを指定)
-@[](Xario２００用の患者情報抽出クラス)
-
-+++
-### クラス図
-
-<img src="img/class_LKcontrast.jpg" width="500">   
-
-+++
-### クラスのインスタンス化
-
-```
-> xario = PatientInfoExtractor$new()
-> xario$getClass()
-Reference Class "PatientInfoExtractor":
-
-Class fields:
-                                                                                 
-Name:            path             id           name           date   id_geometory
-Class:      character      character      character      character      character
-                                    
-Name:  name_geometory date_geometory
-Class:      character      character
-
-Class Methods: 
-     "extract_date", "extract_name", "extract_id", "extract_data", "import", 
-     ".objectParent", "usingMethods", "show", "getClass", "untrace", "export", 
-     ".objectPackage", "callSuper", "copy", "initFields", "getRefClass", "trace", "field", 
-     "initialize"
-
-Reference Superclasses: 
-     "OCR", "MedicalImageInfo", "envRefClass"
-
-```
-@[1](クラスのインスタンス化)
-@[2](クラスの内容を確認)
-@[5-11](インスタンスの変数)
-@[13-14](インスタンスのメソッド)
-@[19-20](スーパークラス)
-
-+++
-### 実際のshiny code
-
-```
-library(shiny)
-
-source("EstimateLiverSteatosis_RefClass.R")
-xario = Xario200$new()
-
-ui <- fluidPage(
-  textInput("tempId", label = "ID : "),
-  actionButton("modify_id_btn", "modify ID")
-)
-server <- function(input, output) {
-  observeEvent(input$modify_id_btn, {
-    xario$id = input$tempId
-  }) 
-}
-shinyApp(ui = ui, server = server)
-```
-@[3-4](外部のクラスファイルを読み込んで、インスタンス化)
-@[7-8](テキスト入力欄とアクションボタン)
-@[11-13](ボタンを押したら、IDを保存)
-
-Note:
-2行で、沢山の変数、関数を準備できます。
-
----
-### 後半のまとめ
-
-- 参照クラスでコードがリーダブル
-- クラスを再利用して、開発の効率化
-
-
+- NAFLDは、10-20年で5～8％が肝硬変へ進展。肝硬変からの肝発癌率は5年で11.3％。
+- 肝線維化評価には、Fibroscan、線維化マーカー、線維化スコアが用いられてきている。
+- 心血管イベント、CKD、糖尿病発症のオッズ比はそれぞれ、2.05、1.5-4.4、3.51。
