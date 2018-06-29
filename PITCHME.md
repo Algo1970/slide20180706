@@ -150,7 +150,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 
 
 ---
-### <font id='p_120_orange'>NAFLD</font><font id='p_80'>の診断</font>
+### <font id='p_120_orange'>NAFLD</font>の診断
 
 +++
 ### <font id='p_120_orange'>NAFLD</font>診断フローチャート
@@ -198,7 +198,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 <p id="p_small_gray">www.fibrscan.com/en/products</p>
 
 ---
-### <font id='p_120_orange'>NAFLD</font><font id='p_80'>の治療</font>
+### <font id='p_120_orange'>NAFLD</font>の治療
 
 +++
 ### <font id='p_120_orange'>NAFLD</font>診療ガイドライン
@@ -233,7 +233,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 </p>
 
 +++
-### <font id="p_80">２型糖尿病を伴うNAFLDに対するIpragliflozinとPioglitazoneのRCT</font>
+### <font id="p_80">２型糖尿病を伴う<font id='p_orange'>NAFLD</font>に対する<br>IpragliflozinとPioglitazoneのRCT</font>
 
 <img src="img_NAFLD/LS_ipra1.png" width="400"> 
 
@@ -242,7 +242,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 </p>
 
 +++
-### <font id="p_80">２型糖尿病を伴うNAFLDに対するEmpagliflozinのRCT</font>
+### <font id="p_80">２型糖尿病を伴う<font id='p_orange'>NAFLD</font>に対する<br>EmpagliflozinのRCT</font>
 
 <img src="img_NAFLD/EMPA_NAFLD_MRI.png" width="800"> 
 
