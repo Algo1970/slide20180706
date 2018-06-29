@@ -270,7 +270,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 +++
 ### 院内Network
 　　
-<img src="img_network/Clinic_Network.png" width="960"> 
+<img src="img_slide/Clinic_Network.png" width="960"> 
 
 +++
 ### 経験的な脂肪化grade
