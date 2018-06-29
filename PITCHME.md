@@ -29,6 +29,7 @@
 
 
 +++
+---?image=img_NAFLD/NAFLD_patho.jpg
 ### {data-background="img_NAFLD/NAFLD_patho.jpg"}
 
 <p  id='p_150_bold'>脂肪肝とは</p>
