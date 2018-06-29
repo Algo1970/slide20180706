@@ -257,7 +257,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 
 
 ---
-### <font id="p_80">当院での</font><font id='p_120_orange'>NAFLD</font><font id="p_80">診療</font>
+### 当院での<font id='p_120_orange'>NAFLD</font>診療
 
 +++
 ### 診療のポイント
