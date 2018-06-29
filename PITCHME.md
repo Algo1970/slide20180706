@@ -272,12 +272,12 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 <img src="img_slide/Clinic_Network.png" width="960"> 
 
 +++
-### 経験的な脂肪化grade
+### 経験的な脂肪化グレード
 
 <img src="img_NAFLD/empirical_USgrade.png" width="640"> 
 
 +++
-### 肝脂肪定量化shinyアプリ
+### 肝脂肪定量化アプリ
 
 <img src="img_NAFLD/SteatosisChecker.gif" width="720"> 
 
