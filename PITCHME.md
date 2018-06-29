@@ -267,7 +267,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 3. <p>肝外合併症のスクリーニング</p>
 
 +++
-### 院内Network
+### 院内<p id='p_130'>Network</p>
 　　
 <img src="img_slide/Clinic_Network.png" width="960"> 
 
