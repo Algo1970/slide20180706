@@ -33,23 +33,30 @@
 
 <font size="7" color="black">肝臓に脂肪が過剰に蓄積した状態<br>肝細胞の30％以上に脂肪空胞が認められる</font>
 
-
-
-
 +++
-### 脂肪肝の分類
+### 非アルコール性脂肪性肝炎(NASH)
 
-<img src="img/NAFLD_diagram2.jpg" title="NAFLD" width="800">  
+- 1980年Ludwigが、多飲酒歴がないにもかかわらず、肝硬変に進行した20症例を検討し報告した。
 
-Note:
-脂肪肝は、原因や病態によって分類され。まずアルコール性の肝障害と非アルコール性に大きくわけられます。この非アルコール性脂肪性肝疾患で、肝炎から肝硬変、肝発癌に至るNASHと呼ばれる疾患が近年注目されております。NASHの診断は、肝生検が必要なため、実際臨床ではNAFLD全体を見ながら診療にあたっています。
+<p id="p_small_white">Ludwig J,et al :Mayo Clin Proc 1980;55:434-438 
+</p>
+
 
 +++ 
-### 非アルコール性脂肪性肝疾患<br>(NAFLD)とは
+### <font id='p_120_orange'>NAFLD</font> + HCC症例(70歳代、男性)
 
-- 飲酒歴がない
-- 肝炎ウイルス、自己抗体等陰性
-- 画像所見で脂肪肝を認める
+<div id="column1">
+<img src="img_NAFLD/HCC_US1.png" width="393" height="312" />  
+</div>
+<div id="column2">
+<p id="p_80"> 6年前より高血圧症にて加療。初診時、腹部USにて脂肪肝(FIB4index : 1.97)。
+<br><br>3年前の腹部USにて、肝S5：直径20mmのHCCあり、ラジオ波焼灼術施行。
+<br><br>以後、再発無く経過。
+</p>
+</div>
+
+
+
 
 
 +++
