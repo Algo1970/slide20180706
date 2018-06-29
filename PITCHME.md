@@ -287,7 +287,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 <img src="img_NAFLD/scoring_panel3.png" width="720"> 
 
 +++
-### <p id='p_120'>FIB4indexの経時的プロット</p>
+### <p id='p_130'>FIB4indexの経時的プロット</p>
 
 <img src="img_NAFLD/FIB4index_timeseries.png" width="800"> 
 
