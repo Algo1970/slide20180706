@@ -101,7 +101,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 
 
 ---
-### <font id='p_120_orange'>NAFLD</font><font id="p_80">の最近の話題</font>
+### <font id='p_120_orange'>NAFLD</font>の最近の話題
 
 
 +++
