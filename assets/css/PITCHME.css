@@ -16,17 +16,20 @@
   font-size : 20px ;
   font-family: serif;
   color : gray;
+  text-transform: none ;
 }
 
 #p_header {
   font-size : 15px ;
   text-align: right;
   color : gray;
+  text-transform: none ;
 }
 
 #p_small_white {
   font-size : 20px ;
   color : white;
+  text-transform: none ;
 }
 
 #p_white_right {
@@ -34,6 +37,7 @@
   color : red;
   position: relative;
   right : 10px ;
+  text-transform: none ;
 }
 
 #img_right {
@@ -42,78 +46,95 @@
   text-align: center;
   padding: 5px;
   float: left;
+  text-transform: none ;
 }
 
 #column1 {
   width: 400px;
   text-align: left;
   float: left;
+  text-transform: none ;
 }
 #column2 {
   width: 560px;
   margin-top :10px;
   text-align: left;
   float: left;
+  text-transform: none ;
 }
 
 #img_logo {
   padding: 1px;
   float: left;
+  text-transform: none ;
 }
 
 #p_logo {
   color :gray;
   font-size: 20px;
   float: right;
+  text-transform: none ;
 }
 
 #p_150 {
   font-size: 150%;
+  text-transform: none ;
 }
 #p_150_bold {
   font-size: 150%;
   font-weight: bolder;
+  text-transform: none ;
 }
 #p_150_bold_white {
   font-size: 150%;
   font-weight: bolder;
   color: white;
+  text-transform: none ;
 }
 #p_150_bold_olive {
   font-size: 150%;
   font-weight: bolder;
   font-family:"TakaoMincho";
   color: #6b8e23;
+  text-transform: none ;
 }
 #p_80 {
   font-size: 80%;
+  text-transform: none ;
 }
 #p_120_gold {
   font-size: 120%;
   color: #ffd700;
+  text-transform: none ;
 }
 #p_orange {
   color: orange;
+  text-transform: none ;
 }
 #p_120_orange {
   font-size: 120%;
   color: orange;
+  text-transform: none ;
 }
 #p_120_white {
   font-size: 120%;
   color: white;
+  text-transform: none ;
 }
 #p_150_white {
   font-size: 150%;
   color: white;
+  text-transform: none ;
 }
 #p_60 {
   font-size: 60%;
+  text-transform: none ;
 }
 #p_40 {
   font-size: 40%;
   text-align: right;
   right : 10px ;
+  text-transform: none ;
 }
 #p_120 {
   font-size: 120%;
