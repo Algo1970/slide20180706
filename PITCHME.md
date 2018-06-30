@@ -293,7 +293,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 +++
 ### <font id='p_130'>FIB4index</font>の経時的プロット
 
-<img src="img_NAFLD/FIB4index_timeseries.png" width="800"> 
+<img src="img_NAFLD/FIB4plot.png" width="800"> 
 
 ---?color=#6b8e23
 ### まとめ
