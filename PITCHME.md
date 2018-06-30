@@ -67,6 +67,9 @@
 ---
 ### <font id='p_120_orange'>NAFLD</font>の問題点
 
++++
+### <font id='p_120_orange'>NAFLD</font>の問題点
+
 - 生活習慣の変化により患者数が増加傾向
 - <font id='p_150_bold'>10～20年</font>で、<font id='p_150_bold'>5～8％</font>が肝硬変へ進展
 - 肝硬変からの肝発癌率は<font id='p_150_bold'>5年</font>で<font id='p_150_bold'>11.3％</font>
@@ -206,16 +209,6 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 <img src="img_NAFLD/NAFLDguideline.png" width="200"> 
 
 <p id="p_small_gray">https://www.jsge.or.jp/guideline/guideline/pdf/NAFLD_NASHGL2_re.pdf</p>
-
-+++
-### ガイドラインで記載された薬物治療
-
-- エビデンスレベル A<br>
-<p id="p_80">チアゾリジン誘導体（ピオグリタゾン）・ビタミンE</p>
-- エビデンスレベル B<br>
-<p id="p_80">ビグアナイド（メトフォルミン等）・HMG-CoA還元酵素阻害剤・<br>高用量UDCA</p>
-- エビデンスレベル C<br>
-<p id="p_80">エゼチミブ（ゼチーア）・ARB・瀉血</p>
 
 
 +++
