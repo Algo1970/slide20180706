@@ -93,7 +93,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 <img src="img_NAFLD/NL_CH_LC3.png" width="800" />  
 
 +++
-### 肝発癌率<font id='p_120'>（HCV vs NAFLD）</font>
+### 肝発癌率<font id='p_120'>(HCV vs NAFLD)</font>
 
 <img src="img_NAFLD/HCV_NAFLD_HCC.png" width="560" />
 
