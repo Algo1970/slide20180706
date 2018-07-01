@@ -7,7 +7,8 @@ theme-override : assets/css/PITCHME.css
 
 #ロゴアイコンの設定
 #logo : img_slide/apple_hidanaika300.png
-logo : img_slide/clinic_logo2_330.png
+logo : img_slide/clinic_logo1_275.png
+#logo : img_slide/clinic_logo2_330.png
 #logo : img_slide/clinic_logo4_280.png
 
 #フットノートの設定
