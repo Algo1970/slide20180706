@@ -111,6 +111,10 @@
   color: orange;
   text-transform: none ;
 }
+#p_bold {
+  font-weight: bolder;
+  text-transform: none ;
+}
 #p_120_bold {
   font-size: 120%;
   font-weight: bolder;
