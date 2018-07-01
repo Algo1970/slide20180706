@@ -89,6 +89,13 @@
 Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 </p>
 
++++
+### BMIの年齢階級分布
+
+<img src="img_NAFLD/BMI_gender.png" width="700" />  
+<p id="p_small_gray">
+e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養調査データから作成
+</p>
 
 +++
 ### 肝臓の腹腔鏡像
