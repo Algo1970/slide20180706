@@ -255,7 +255,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 </p>
 
 +++
-### <font id="p_80">SGLT2が著効した</font><font id='p_orange'>NAFLD</font><font id="p_80">症例(60歳代、男性)</font>
+### <font id="p_80">SGLT2iが著効した</font><font id='p_orange'>NAFLD</font><font id="p_80">症例(60歳代、男性)</font>
 
 <img src="img_NAFLD/SGLT2_ALT_BW.png" width="900"> 
 
