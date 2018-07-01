@@ -78,8 +78,8 @@
 +++
 ### <font id='p_120_orange'>NAFLD</font>有病率
 
-- 日本の成人健康診断受診者でのNAFLDの頻度は，<br><font id='p_150_bold'>男性</font>では<font id='p_150_bold'>30～40％</font>，<font id='p_150_bold'>女性</font>は<font id='p_150_bold'>10～20％</font>である。
-- NAFLDの10～20％がNASHと報告されているので，<font id='p_150_bold'>NASH有病率</font>は成人の2～8％(<font id='p_150_bold'>160-640万人</font>)と推定される。
+- 日本の成人健康診断受診者でのNAFLDの頻度は，<br><font id='p_bold'>男性</font>では<font id='p_120_bold'>30～40</font>％，<font id='p_bold'>女性</font>は<font id='p_120_bold'>10～20</font>％である。
+- NAFLDの10～20％がNASHと報告されているので，<font id='p_bold'>NASH有病率</font>は成人の2～8％(<font id='p_120_bold'>160-640</font>万人)と推定される。
 
 +++
 ### <font id='p_120_orange'>NAFLD</font>患者、年齢分布
