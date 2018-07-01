@@ -71,7 +71,7 @@
 ### <font id='p_120_orange'>NAFLD</font>の問題点
 
 - 生活習慣の変化により患者数が増加傾向
-- <font id='p_120'>10～20</font>年で、<font id='p_120'>5～8</font>％が肝硬変へ進展
+- <font id='p_120'>10～20</font>年で、<font id='p_120'>5～8</font>％が<font id='p_bold'>肝硬変へ進展</font>
 - 肝硬変からの肝発癌率は<font id='p_120'>5</font>年で<font id='p_120'>11.3</font>％
 
 
