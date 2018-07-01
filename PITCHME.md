@@ -92,7 +92,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 +++
 ### BMIの年齢階級分布
 
-<img src="img_NAFLD/BMI_gender.png" width="700" />  
+<img src="img_NAFLD/BMI_gender.png" width="600" />  
 <p id="p_small_gray">
 e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養調査データから作成
 </p>
