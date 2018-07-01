@@ -57,7 +57,7 @@
 <img src="img_NAFLD/HCC_US1.png" width="393" height="312" />  
 </div>
 <div id="column2">
-<p id="p_80"> 6年前より高血圧症にて加療。初診時、腹部USにて脂肪肝(FIB4index : 1.97)。
+<p id="p_80"> 6年前より高血圧症にて加療。初診時、腹部USにて脂肪肝を指摘。
 <br><br>3年前の腹部USにて、肝S5：直径20mmのHCCあり、ラジオ波焼灼術施行。
 <br><br>以後、再発無く経過。
 </p>
