@@ -224,7 +224,7 @@ Eguchi Y, et al :  J Gastroenterol 47 : 586―595,2012
 +++
 ### 治療効果が期待される薬剤
 
-- <font id='p_120_orange'>SGLT2i</font>
+- <font id='p_120_orange'>SGLT2阻害薬</font>
 - <font id='p_120'>GLP-1受容体作動薬</font>
 
 +++
