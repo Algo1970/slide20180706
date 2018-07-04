@@ -310,7 +310,7 @@ e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養
 <img src="img_NAFLD/FIB4plot.png" width="800"> 
 
 ---?color=#6b8e23
-### <font id='p_130'>1980</font>年に<font id='p_130'>Ludwig</font>が<font id='p_130'>NASH</font>を提唱し<br><font id='p_130'>40</font>年近く経ちました.<br>私達肝臓内科医が学んだことは…
+### <font id='p_120_normal'>1980</font><font id='p_normal'>年に</font><font id='p_120_normal'>Ludwig</font><font id='p_normal'>が</font><font id='p_120_normal'>NASH</font><font id='p_normal'>を提唱し</font><br><font id='p_120_normal'>40</font><font id='p_normal'>年近く経ちました.<br>私達肝臓内科医が学んだことは…</font>
 
 
 
