@@ -1,0 +1,46 @@
+---
+title: "formula"
+author: "Masahiko Hida"
+date: "2018年7月4日"
+output: html_document
+---
+
+
+<br><br><br><br><br><br>
+
+## FIB4index
+
+$$FIB4index = \dfrac {AST\left( IU/L\right) \times Age\left( years\right)}{Plt\left( 10^{9}/L \right) \times \sqrt{ALT \left( IU/L\right) }}$$
+
+## NAFLD fibrosis score(NFS)
+
+$$\begin{aligned}NFS = -1.675 + 0.037 \times Age\left( years\right)  
+                       + 0.094 \times BMI\left( kg/m^2\right)
+                       + 1.13 \times IFG/diabetes\left( yes = 1, no = 0\right) \\
+                       + 0.99 \times AST/ALT ratio 
+                       - 0.013 \times Plt\left( 10^{9}/L \right) 
+                       - 0.66 \times Alb\left( g/dL \right)\end{aligned}$$
+
+
+<br><br><br>
+
+## FIB4index  
+
+$$FIB4index = \dfrac {AST\left( IU/L\right) \times Age\left( years\right)}{Plt\left( 10^{9}/L \right) \times \sqrt{ALT \left( IU/L\right) }}$$
+
+
+## NAFLD fibrosis score(NFS)  
+
+
+
+$$\begin{aligned}NFS = -1.675 + 0.037 \times Age\left( years\right) + 0.094 \times BMI\left( kg/m^2\right) \\
++ 1.13 \times IFG/diabetes\left( yes = 1, no = 0\right) + 0.99 \times AST/ALT ratio \\
+- 0.013 \times Plt\left( 10^{9}/L \right) - 0.66 \times Alb\left( g/dL \right)\end{aligned}$$
+
+
+<br><br><br><br><br><br>
+
+
+$$NFS = -1.675 + 0.037 \times Age\left( years\right) + 0.094 \times BMI\left( kg/m^2\right) + 1.13 \times IFG/diabetes\left( yes = 1, no = 0\right) + 0.99 \times AST/ALT ratio - 0.013 \times Plt\left( 10^{9}/L \right) - 0.66 \times Alb\left( g/dL \right) $$
+
+-1.675 + 0.037 × age (years) + 0.094 × BMI (kg/m2) + 1.13 × IFG/diabetes (yes = 1, no = 0) + 0.99 × AST/ALT ratio – 0.013 × platelet (×109/l) – 0.66 × albumin (g/dl)
