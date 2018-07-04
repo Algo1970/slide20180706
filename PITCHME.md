@@ -295,7 +295,7 @@ e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養
 +++
 ### 肝線維化スコアは計算が煩雑
 
-<img src="img_NAFLD/FIB4_NFS2.jpg" width="640"> 
+<img src="img_NAFLD/FIB4_NFS2.jpg" width="800"> 
 
 
 
