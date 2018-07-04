@@ -293,6 +293,21 @@ e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養
 <img src="img_NAFLD/SteatosisChecker.gif" width="720"> 
 
 +++
+### 肝線維化スコアは計算が煩雑
+
++++
+### FIB4index
+
+$$FIB4index = \dfrac {AST\left( IU/L\right) \times Age\left( years\right)}{Plt\left( 10^{9}/L \right) \times \sqrt{ALT \left( IU/L\right) }}$$
+
++++
+### NAFLD fibrosis score(NFS)
+
+$$\begin{aligned}NFS = -1.675 + 0.037 \times Age\left( years\right) + 0.094 \times BMI\left( kg/m^2\right) \\
++ 1.13 \times IFG/diabetes\left( yes = 1, no = 0\right) + 0.99 \times AST/ALT ratio \\
+- 0.013 \times Plt\left( 10^{9}/L \right) - 0.66 \times Alb\left( g/dL \right)\end{aligned}$$
+
++++
 ### 肝線維化スコア計算アプリ
 
 <img src="img_NAFLD/scoring_panel3.png" width="720"> 
