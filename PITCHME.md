@@ -280,16 +280,17 @@ Note:
 ### 当院での<font id='p_120_orange'>NAFLD</font>診療
 
 +++
+### 院内<font id='p_130'>Network</font>
+　　
+<img src="img_slide/Clinic_Network.png" width="960"> 
+
+
++++
 ### 診療のポイント
 
 1. <p id="p_orange">脂肪化・炎症・線維化のフォロー</p>
 2. <p>肝癌のスクリーニング</p>
 3. <p>肝外合併症のスクリーニング</p>
-
-+++
-### 院内<font id='p_130'>Network</font>
-　　
-<img src="img_slide/Clinic_Network.png" width="960"> 
 
 +++
 ### 経験的な脂肪化グレード
