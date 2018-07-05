@@ -58,7 +58,7 @@
 </div>
 <div id="column2">
 <p id="p_80"> 6年前より高血圧症にて加療。初診時、腹部USにて脂肪肝を指摘。
-<br><br>3年前の腹部USにて、肝S5：直径20mmのHCCあり、ラジオ波焼灼術施行。
+<br><br>3年前の腹部USにて、肝S5：直径20mmの肝細胞癌を認め、ラジオ波焼灼術施行。
 <br><br>以後、再発無く経過。
 </p>
 </div>
@@ -178,7 +178,7 @@ e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養
 ### <font id='p_120_orange'>NAFLD</font>全員に、肝生検するのは無理 
 
 +++
-### <font id='p_120_orange'>NAFLD</font><font id='p_80'>における肝線維化と血小板の関連</font>
+### <font id='p_orange'>NAFLD</font><font id='p_80'>における肝線維化と血小板の関連</font>
 
 <img src="img_NAFLD/NAFLD_fibrosis_plt.png" width="560" />  
 
@@ -186,7 +186,7 @@ e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養
 1300―1306, 2011.)</p>
 
 +++
-### <font id='p_120_orange'>NAFLD</font><font id='p_80'>における肝線維化とM2BPGiの関連</font>
+### <font id='p_orange'>NAFLD</font><font id='p_80'>における肝線維化と</font>M2BPGi<font id='p_80'>の関連</font>
 
 <img src="img_NAFLD/M2BPGi_NAFLD.png" width="640" />  
 
