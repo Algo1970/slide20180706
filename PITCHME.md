@@ -293,7 +293,7 @@ Note:
 3. <p>肝外合併症のスクリーニング</p>
 
 +++
-### 経験的な脂肪化グレード
+### <font id="p_bold">一般的な<font id="p_120">US</font>による脂肪化グレード</font>
 
 <img src="img_NAFLD/empirical_USgrade.png" width="640"> 
 
