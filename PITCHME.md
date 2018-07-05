@@ -262,7 +262,7 @@ e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養
 </p>
 
 +++
-### <font id="p_80">SGLT2iが著効した</font><font id='p_orange'>NAFLD</font><font id="p_80">症例(60歳代、男性)</font>
+### <font id="p_bold">SGLT2i</font><font id="p_80">が著効した</font><font id='p_orange'>NAFLD</font><font id="p_80">症例(60歳代、男性)</font>
 
 <img src="img_NAFLD/SGLT2_ALT_BW.png" width="900"> 
 
