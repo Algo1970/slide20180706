@@ -235,7 +235,7 @@ e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養
 - <font id='p_120'>GLP-1受容体作動薬</font>
 
 +++
-### <font id="p_80">脂肪肝を伴う２型糖尿病患者に対するLuseogliflozinとMetforminのRCT</font>
+### <font id="p_80">脂肪肝を伴う２型糖尿病患者に対する</font>Luseogliflozin<font id="p_80">と</font>Metformin<font id="p_80">の</font>RCT</font>
 
 <img src="img_NAFLD/luseogliflozin_NAFLD.png" width="720"> 
 
@@ -244,7 +244,7 @@ e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養
 </p>
 
 +++
-### <font id="p_80">２型糖尿病を伴う<font id='p_120_orange'>NAFLD</font>に対する<br>IpragliflozinとPioglitazoneのRCT</font>
+### <font id="p_80">２型糖尿病を伴う</font><font id='p_120_orange'>NAFLD</font>に対する<br>IpragliflozinとPioglitazoneのRCT</font>
 
 <img src="img_NAFLD/LS_ipra1.png" width="400"> 
 
