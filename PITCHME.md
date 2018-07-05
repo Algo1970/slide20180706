@@ -244,7 +244,7 @@ e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養
 </p>
 
 +++
-### <font id="p_80">２型糖尿病を伴う</font><font id='p_120_orange'>NAFLD</font>に対する<br>IpragliflozinとPioglitazoneのRCT</font>
+### <font id="p_80">２型糖尿病を伴う</font><font id='p_orange'>NAFLD</font><font id="p_80">に対する</font><br><font id="p_bold">Ipragliflozin</font><font id="p_80">と</font><font id="p_bold">Pioglitazone</font><font id="p_80">の</font><font id="p_bold">RCT</font>
 
 <img src="img_NAFLD/LS_ipra1.png" width="400"> 
 
