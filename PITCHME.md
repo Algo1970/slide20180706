@@ -253,7 +253,7 @@ e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養
 </p>
 
 +++
-### <font id="p_80">２型糖尿病を伴う<font id='p_120_orange'>NAFLD</font>に対する<br><font id="p_bold">Empagliflozin</font>のRCT</font>
+### <font id="p_80">２型糖尿病を伴う</font><font id='p_orange'>NAFLD</font><font id="p_80">に対する</font><br><font id="p_bold">Empagliflozin</font><font id="p_80">の</font><font id="p_bold">RCT</font>
 
 <img src="img_NAFLD/EMPA_NAFLD_MRI.png" width="800"> 
 
