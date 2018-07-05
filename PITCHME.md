@@ -186,7 +186,7 @@ e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養
 1300―1306, 2011.)</p>
 
 +++
-### <font id='p_orange'>NAFLD</font><font id='p_80'>における肝線維化と</font><font id='p_120'>M2BPGi</font><font id='p_80'>の関連</font>
+### <font id='p_orange'>NAFLD</font><font id='p_80'>における肝線維化と</font><font id='p_bold'>M2BPGi</font><font id='p_80'>の関連</font>
 
 <img src="img_NAFLD/M2BPGi_NAFLD.png" width="640" />  
 
