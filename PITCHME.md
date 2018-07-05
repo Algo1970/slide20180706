@@ -243,6 +243,9 @@ e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養
 (Shibuya T, et al : Diabetes Obes Metab 20:438-442,2018.)
 </p>
 
+Note:
+ルセフィー
+
 +++
 ### <font id="p_80">２型糖尿病を伴う</font><font id='p_orange'>NAFLD</font><font id="p_80">に対する</font><br><font id="p_bold">Ipragliflozin</font><font id="p_80">と</font><font id="p_bold">Pioglitazone</font><font id="p_80">の</font><font id="p_bold">RCT</font>
 
@@ -252,6 +255,9 @@ e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養
 (Ito D, et al : Diabetes Care 40:1364-1372,2017.)
 </p>
 
+Note:
+スーグラ
+
 +++
 ### <font id="p_80">２型糖尿病を伴う</font><font id='p_orange'>NAFLD</font><font id="p_80">に対する</font><br><font id="p_bold">Empagliflozin</font><font id="p_80">の</font><font id="p_bold">RCT</font>
 
@@ -260,6 +266,9 @@ e-stat(政府統計ポータルサイト)の平成２７年国民健康・栄養
 <p id="p_small_gray">
 (Kuchay MS, et al : Diabetes Care 41, 2018.)
 </p>
+
+Note:
+ジャディアンス
 
 +++
 ### <font id="p_bold">SGLT2i</font><font id="p_80">が著効した</font><font id='p_orange'>NAFLD</font><font id="p_80">症例(60歳代、男性)</font>
