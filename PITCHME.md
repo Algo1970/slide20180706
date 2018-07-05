@@ -292,6 +292,10 @@ Note:
 - <p>肝癌のスクリーニング</p>
 - <p id="p_orange">脂肪化・線維化のフォロー</p>
 
+
++++
+### Steatosis(脂肪化)
+
 +++
 ### <font id="p_bold">一般的な<font id="p_120">US</font>による脂肪化グレード</font>
 
@@ -303,10 +307,12 @@ Note:
 <img src="img_NAFLD/SteatosisChecker.gif" width="720"> 
 
 +++
+### Fibrosis(線維化)
+
++++
 ### 肝線維化スコアは計算が煩雑
 
 <img src="img_NAFLD/FIB4_NFS2.jpg" width="800"> 
-
 
 
 +++
