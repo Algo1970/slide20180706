@@ -6,6 +6,7 @@
 .reveal p {
   color: black;
   font-family: sans-serif;
+  text-transform: none ;
 }
 
 .reveal div{
